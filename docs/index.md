@@ -27,7 +27,7 @@ features:
       }
     title: Server Gameplay Rules
     details: Rules are subject to change for the purposes of improvements or clarification.
-    link: "#"
+    link: "./gameplay-rules/index"
   - icon:
       {
         src: /images/Chat Rules.webp,
@@ -37,7 +37,7 @@ features:
       }
     title: Chat Rules
     details: Please fully read to be sure all rules are followed
-    link: "#"
+    link: "./chat-rules/index"
   - icon:
       {
         src: /images/Carnivore Profiles Rules.webp,
@@ -47,7 +47,7 @@ features:
       }
     title: Carnivore Profiles Rules
     details: Carnivore rules and profiles in a bullet point format for easier reference.
-    link: "#"
+    link: "./carnivore-rules/index"
   - icon:
       {
         src: /images/Herbivore Profile Rules.webp,
@@ -57,6 +57,6 @@ features:
       }
     title: Herbivore Profile Rules
     details: Herbivore rules and profiles in a bullet point format for easier reference.
-    link: "#"
+    link: "./herbivore-rules/index"
 ---
 
