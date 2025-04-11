@@ -54,4 +54,4 @@ const { site, theme, page, frontmatter } = useData()
 
 Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
 
-<Checkbox checked="true"/> Test
+<Checkbox checked="true"/> Test 2
