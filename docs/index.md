@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "NatHist"
-  text: "NatHist Path of Titans"
-  tagline: My great project tagline
+  name: "Nat Hist"
+  text: "Path of Titans"
+  tagline: Coming Soon!
+  image:
+    src: /images/nat-hist-logo-2.webp
+    alt: Nat Hist Logo
   actions:
     - theme: brand
       text: Markdown Examples
