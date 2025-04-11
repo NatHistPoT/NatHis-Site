@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "NatHist",
   description: "NatHist Path of Titans",
-  base: "/",
+  base: "/NatHis-Site/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
