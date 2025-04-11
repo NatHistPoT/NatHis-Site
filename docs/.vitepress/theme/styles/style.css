@@ -137,3 +137,10 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/* Add rounded corners to feature images */
+.VPFeature .VPImage {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+

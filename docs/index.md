@@ -4,25 +4,59 @@ layout: home
 
 hero:
   name: "Nat Hist"
-  text: "Path of Titans"
+  text: "A Path of Titans Community Server"
   tagline: Coming Soon!
   image:
     src: /images/nat-hist-logo-2.webp
     alt: Nat Hist Logo
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Vision Statement
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Discord Member Exclusives
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon:
+      {
+        src: /images/Server Gameplay Rules.webp,
+        width: 667,
+        height: 260,
+        alt: Path Of Titans Background,
+      }
+    title: Server Gameplay Rules
+    details: Rules are subject to change for the purposes of improvements or clarification.
+    link: "#"
+  - icon:
+      {
+        src: /images/Chat Rules.webp,
+        width: 667,
+        height: 260,
+        alt: Path Of Titans Background,
+      }
+    title: Chat Rules
+    details: Please fully read to be sure all rules are followed
+    link: "#"
+  - icon:
+      {
+        src: /images/Carnivore Profiles Rules.webp,
+        width: 667,
+        height: 260,
+        alt: Path Of Titans Background,
+      }
+    title: Carnivore Profiles Rules
+    details: Carnivore rules and profiles in a bullet point format for easier reference.
+    link: "#"
+  - icon:
+      {
+        src: /images/Herbivore Profile Rules.webp,
+        width: 667,
+        height: 260,
+        alt: Path Of Titans Background,
+      }
+    title: Herbivore Profile Rules
+    details: Herbivore rules and profiles in a bullet point format for easier reference.
+    link: "#"
 ---
 
